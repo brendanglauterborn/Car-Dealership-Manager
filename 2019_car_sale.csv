@@ -1,0 +1,680 @@
+﻿car_model,contract_date,car_brand,State,car_safety_rating,sales amount ($),color
+RDX 2WD,9/23/2019,Acura,Texas,Good,"452,331",White
+RDX 4WD,3/11/2019,Acura,California,NA,"471,843",White
+RDX 4WD,1/15/2019,Acura,Florida,NA,"384,788",Blue
+RDX 4WD,1/29/2019,Acura,Nevada,Very Poor,"220,173",Green
+RDX 4WD,12/25/2019,Acura,California,Good,"915,566",White
+TSX,9/16/2019,Acura,Texas,Good,"309,221",Blue
+TSX,6/1/2019,Acura,Florida,Very Poor,"45,167",Gray
+A3,9/2/2019,Audi,Texas,Poor,"361,395",Blue
+A3 Quattro,4/29/2019,Audi,Nevada,NA,"455,701",Gray
+A4,5/4/2019,Audi,California,Poor,"257,152",Green
+A4,5/13/2019,Audi,Texas,NA,"486,488",Green
+A4 Cabriolet,4/22/2019,Audi,California,Very Poor,"939,831",White
+A4 Quattro,12/16/2019,Audi,California,Good,"138,662",Red
+A4 Quattro,9/30/2019,Audi,Texas,Poor,"129,879",White
+A5 Quattro,1/29/2019,Audi,Texas,Very Poor,"27,523",White
+Q5,5/13/2019,Audi,Texas,Fair,"704,612",Blue
+Q5,1/15/2019,Audi,Texas,Very Poor,"397,343",Blue
+UNLISTED,8/19/2019,Audi,Florida,Poor,"958,580",Red
+128i,3/18/2019,BMW,Florida,Excellent,"778,617",Gray
+328ci xDrive,11/18/2019,BMW,Nevada,Excellent,"141,335",Green
+328cxi,8/19/2019,BMW,Nevada,Fair,"982,108",Green
+328cxi,2/12/2019,BMW,Ohio,Very Poor,"275,973",Green
+328i,7/22/2019,BMW,California,Fair,"174,940",White
+328i xDrive,10/28/2019,BMW,California,Excellent,"521,386",Red
+335d,1/22/2019,BMW,Florida,NA,"639,862",Red
+X3 3.0i,2/26/2019,BMW,Ohio,Excellent,"509,955",Red
+X3 3.0si,5/27/2019,BMW,Florida,Very Poor,"347,037",Red
+X3 xDrive 30i,11/23/2019,BMW,Nevada,Poor,"112,204",Red
+Z4 3.0i,11/11/2019,BMW,California,Fair,"328,434",Gray
+Enclave AWD,5/20/2019,Buick,Nevada,NA,"577,596",White
+Enclave AWD,11/25/2019,Buick,Texas,NA,"649,376",Green
+Enclave AWD,9/30/2019,Buick,Ohio,Fair,"237,566",White
+Enclave FWD,10/21/2019,Buick,Ohio,Excellent,"363,333",White
+Enclave FWD,9/30/2019,Buick,Nevada,Good,"936,275",White
+Enclave FWD,4/15/2019,Buick,Florida,Very Poor,"188,614",Green
+SRX 2WD,1/8/2019,Cadillac,Texas,Very Poor,"276,724",Green
+SRX 2WD,8/5/2019,Cadillac,Texas,Excellent,"354,049",Black
+SRX AWD,12/2/2019,Cadillac,Ohio,NA,"787,298",Gray
+Aveo,8/12/2019,Chevrolet,Florida,Fair,"853,027",Blue
+Aveo 5,6/3/2019,Chevrolet,Texas,Very Poor,"73,790",Blue
+Aveo 5,3/25/2019,Chevrolet,Texas,Excellent,"369,256",Red
+Aveo 5,10/14/2019,Chevrolet,Ohio,Very Poor,"894,217",Red
+Aveo 5,6/17/2019,Chevrolet,Ohio,Excellent,"631,812",White
+Camaro,11/11/2019,Chevrolet,Texas,Excellent,"685,063",Green
+Cobalt,6/3/2019,Chevrolet,Nevada,NA,"482,514",Red
+Cobalt,9/9/2019,Chevrolet,Florida,Poor,"598,305",Green
+Cobalt,12/21/2019,Chevrolet,Nevada,Excellent,"493,682",Green
+Cobalt Sedan,10/7/2019,Chevrolet,Florida,Fair,"701,524",White
+Cobalt XFE,9/9/2019,Chevrolet,Ohio,Excellent,"798,565",Gray
+Cobalt XFE,9/23/2019,Chevrolet,Florida,Poor,"157,563",White
+Cobalt XFE Coupe,4/29/2019,Chevrolet,Florida,Very Poor,"881,320",Black
+Colorado 2WD,9/9/2019,Chevrolet,California,NA,"558,068",White
+Colorado 2WD,7/29/2019,Chevrolet,Nevada,Fair,"52,463",Red
+Colorado 2WD,11/23/2019,Chevrolet,California,NA,"314,881",Black
+Colorado 2WD,1/15/2019,Chevrolet,California,Very Poor,"903,885",Black
+Colorado 4WD,9/23/2019,Chevrolet,Nevada,Very Poor,"79,505",White
+Colorado 4WD,4/15/2019,Chevrolet,Nevada,Excellent,"615,382",Green
+Colorado 4WD,3/25/2019,Chevrolet,Texas,Very Poor,"51,709",Red
+Colorado Cab Chassis inc 4WD,7/25/2019,Chevrolet,Nevada,NA,"750,481",White
+Colorado Crew Cab 2WD,3/4/2019,Chevrolet,Ohio,Poor,"912,892",Green
+Colorado Crew Cab 2WD,10/7/2019,Chevrolet,Texas,Excellent,"846,149",Green
+Colorado Crew Cab 2WD,5/6/2019,Chevrolet,Florida,Poor,"97,883",White
+Colorado Crew Cab 4WD,12/2/2019,Chevrolet,Texas,Fair,"441,498",Black
+Colorado Crew Cab 4WD,8/19/2019,Chevrolet,Florida,Excellent,"963,718",Blue
+Colorado Crew Cab 4WD,12/2/2019,Chevrolet,Nevada,Excellent,"248,714",Green
+Equinox AWD,11/18/2019,Chevrolet,Florida,Poor,"555,298",Gray
+Equinox AWD,7/22/2019,Chevrolet,Ohio,Excellent,"991,501",Green
+Equinox AWD,11/11/2019,Chevrolet,Ohio,Excellent,"475,301",White
+Equinox FWD,6/10/2019,Chevrolet,California,Fair,"418,279",Green
+Equinox FWD,9/16/2019,Chevrolet,Nevada,Fair,"580,454",Green
+Equinox FWD,11/18/2019,Chevrolet,Ohio,Very Poor,"188,904",Blue
+Equinox FWD,11/18/2019,Chevrolet,Florida,NA,"386,397",Gray
+Express 1500 2WD Cargo,10/7/2019,Chevrolet,California,Fair,"785,926",White
+HHR FWD,3/11/2019,Chevrolet,Nevada,Very Poor,"296,938",Gray
+HHR FWD,3/4/2019,Chevrolet,Nevada,Poor,"494,696",Green
+HHR FWD,6/24/2019,Chevrolet,Florida,NA,"686,552",Red
+HHR FWD,9/16/2019,Chevrolet,Florida,Poor,"877,108",White
+HHR Panel FWD,3/18/2019,Chevrolet,Ohio,Excellent,"726,423",White
+HHR Panel FWD,2/19/2019,Chevrolet,California,Good,"175,062",Green
+HHR Panel FWD,7/15/2019,Chevrolet,California,Good,"938,785",Green
+Impala,1/22/2019,Chevrolet,Florida,Good,"613,465",Red
+Impala,6/10/2019,Chevrolet,Nevada,Excellent,"537,771",Red
+Malibu,9/9/2019,Chevrolet,Nevada,Poor,"414,737",Blue
+Malibu,5/6/2019,Chevrolet,Florida,Good,"820,720",Red
+Malibu,7/8/2019,Chevrolet,Ohio,Fair,"556,127",Black
+Malibu Hybrid,4/1/2019,Chevrolet,Florida,Poor,"868,602",Gray
+Malibu Hybrid,3/4/2019,Chevrolet,Ohio,NA,"824,565",Green
+Silverado 15 Hybrid 2WD,6/17/2019,Chevrolet,Florida,Poor,"321,138",Blue
+Silverado 15 Hybrid 4WD,10/14/2019,Chevrolet,California,Excellent,"372,814",Black
+Silverado C15 2WD,11/11/2019,Chevrolet,Nevada,Poor,"305,532",White
+Silverado C15 2WD,5/27/2019,Chevrolet,Nevada,Excellent,"314,488",Gray
+Silverado C15 2WD,1/1/2019,Chevrolet,Nevada,NA,"573,604",Red
+Silverado C15 XFE 2WD,4/1/2019,Chevrolet,Ohio,Fair,"199,539",Blue
+Silverado K15 4WD,12/16/2019,Chevrolet,Texas,Very Poor,"61,601",Green
+Suburban 1500 2WD,10/14/2019,Chevrolet,Nevada,Good,"893,323",Green
+Tahoe Hybrid 4WD,9/23/2019,Chevrolet,Florida,Poor,"372,524",White
+Traverse AWD,3/11/2019,Chevrolet,Texas,Excellent,"326,704",Black
+Traverse AWD,2/19/2019,Chevrolet,Nevada,NA,"727,787",White
+Traverse FWD,9/23/2019,Chevrolet,California,NA,"945,555",Black
+Traverse FWD,6/17/2019,Chevrolet,Nevada,Good,"899,642",Black
+UNLISTED,9/16/2019,Chevrolet,Texas,Good,"520,966",Green
+Uplander FWD,7/8/2019,Chevrolet,Florida,Excellent,"663,750",Gray
+Van 1500 2WD Cargo,12/16/2019,Chevrolet,Nevada,Excellent,"315,103",Red
+Van 1500/2500 2WD,3/4/2019,Chevrolet,Nevada,Poor,"811,789",Green
+Aspen HEV,4/15/2019,Chrysler,Florida,Excellent,"595,762",Gray
+PT Cruiser,9/9/2019,Chrysler,California,Very Poor,"323,060",Gray
+PT Cruiser,10/14/2019,Chrysler,Nevada,Excellent,"586,805",White
+PT Cruiser,9/14/2019,Chrysler,Florida,Poor,"835,351",Black
+PT Cruiser Convertible,4/22/2019,Chrysler,Ohio,NA,"570,465",White
+PT Cruiser Convertible,8/26/2019,Chrysler,Nevada,Poor,"46,967",Blue
+Pacifica FWD,6/17/2019,Chrysler,California,NA,"275,977",Black
+Sebring,3/11/2019,Chrysler,Nevada,Excellent,"401,201",Green
+Sebring,4/15/2019,Chrysler,Florida,Fair,"171,928",Green
+Sebring Convertible,9/9/2019,Chrysler,Ohio,NA,"285,035",White
+Town and Country,12/21/2019,Chrysler,Ohio,Fair,"82,205",Gray
+Town and Country,9/30/2019,Chrysler,Ohio,Fair,"935,846",Blue
+Town and Country,5/6/2019,Chrysler,Nevada,Good,"392,424",White
+Town and Country/Voyager/Grand Voy,11/18/2019,Chrysler,Ohio,Fair,"104,010",Gray
+UNLISTED,6/10/2019,Chrysler,California,Fair,"675,024",Blue
+Avenger,2/12/2019,Dodge,Ohio,Good,"848,593",Red
+Avenger,11/23/2019,Dodge,California,Poor,"90,404",Green
+Caliber,9/30/2019,Dodge,Nevada,Poor,"146,092",Gray
+Caliber,4/8/2019,Dodge,Florida,Good,"623,354",Black
+Caliber,9/9/2019,Dodge,Texas,Fair,"961,457",Blue
+Caravan/Grand Caravan 2WD,9/30/2019,Dodge,Nevada,NA,"270,048",Blue
+Caravan/Grand Caravan 2WD,10/14/2019,Dodge,Florida,Excellent,"117,778",White
+Caravan/Grand Caravan FWD,1/15/2019,Dodge,Florida,Poor,"62,576",White
+Dakota Pickup 2WD,5/6/2019,Dodge,Florida,NA,"91,131",Gray
+Dakota Pickup 2WD,6/10/2019,Dodge,California,Very Poor,"554,597",Gray
+Dakota Pickup 4WD,1/22/2019,Dodge,Texas,Good,"224,320",Blue
+Dakota Pickup 4WD,7/29/2019,Dodge,Florida,Fair,"428,416",Blue
+Durango HEV,8/12/2019,Dodge,Florida,Poor,"531,034",White
+Grand Caravan,11/11/2019,Dodge,Nevada,Good,"905,503",Black
+Journey 2WD,9/30/2019,Dodge,Ohio,NA,"48,968",Black
+Journey 2WD,11/4/2019,Dodge,Texas,Excellent,"382,050",Gray
+Journey 4WD,7/13/2019,Dodge,Ohio,Very Poor,"949,837",Red
+Journey 4WD,8/26/2019,Dodge,Ohio,Fair,"361,253",Black
+Magnum,11/2/2019,Dodge,Florida,NA,"608,282",Green
+Nitro 2WD,7/22/2019,Dodge,Texas,Fair,"802,957",Green
+Nitro 2WD,2/17/2019,Dodge,Ohio,Very Poor,"143,572",Black
+Nitro 2WD,2/12/2019,Dodge,California,Excellent,"143,797",Gray
+Nitro 2WD,8/19/2019,Dodge,Texas,NA,"865,637",Gray
+Nitro 4WD,6/24/2019,Dodge,Florida,NA,"758,041",White
+Nitro 4WD,2/26/2019,Dodge,Florida,Excellent,"639,625",Red
+Ram 1500 Pickup 2WD,2/5/2019,Dodge,Texas,Fair,"254,765",Green
+Ram 1500 Pickup 2WD,3/18/2019,Dodge,Texas,Poor,"983,543",White
+Ram 1500 Pickup 2WD,11/11/2019,Dodge,Nevada,Excellent,"976,205",White
+Ram 1500 Pickup 4WD,5/6/2019,Dodge,Texas,Fair,"951,071",Black
+Edge AWD,4/22/2019,Ford,Florida,Very Poor,"341,269",Green
+Edge AWD,3/11/2019,Ford,Ohio,Good,"418,781",Gray
+Edge AWD,9/19/2019,Ford,Florida,Very Poor,"438,975",Black
+Edge AWD,2/17/2019,Ford,Texas,Very Poor,"388,453",White
+Edge FWD,7/15/2019,Ford,Nevada,Fair,"544,115",Blue
+Edge FWD,7/29/2019,Ford,Texas,Fair,"467,050",Black
+Edge FWD,4/27/2019,Ford,Texas,Poor,"188,703",Green
+Edge FWD,3/30/2019,Ford,Nevada,Fair,"935,599",Green
+Escape 4WD,11/25/2019,Ford,Florida,NA,"895,292",Green
+Escape 4WD,3/11/2019,Ford,Ohio,Good,"82,460",Blue
+Escape 4WD,4/15/2019,Ford,Florida,NA,"810,843",Black
+Escape 4WD FFV,11/18/2019,Ford,Florida,Good,"492,428",Blue
+Escape FWD,8/26/2019,Ford,Florida,Excellent,"867,789",Black
+Escape FWD,12/16/2019,Ford,Texas,Excellent,"349,393",Red
+Escape FWD,1/29/2019,Ford,Nevada,NA,"927,096",Green
+Escape FWD,8/19/2019,Ford,Ohio,Fair,"413,389",Gray
+Escape FWD FFV,6/17/2019,Ford,Florida,NA,"736,977",Blue
+Escape Hybrid 4WD,10/21/2019,Ford,Texas,Fair,"989,223",Gray
+Escape Hybrid 4WD,3/16/2019,Ford,Nevada,Excellent,"585,674",Green
+Escape Hybrid 4WD,2/12/2019,Ford,Florida,Excellent,"89,948",Blue
+Escape Hybrid FWD,8/5/2019,Ford,Ohio,Good,"650,324",Green
+Escape Hybrid FWD,8/12/2019,Ford,Ohio,NA,"993,266",Green
+Escape Hybrid FWD,7/22/2019,Ford,Texas,Poor,"320,937",White
+Escape Hybrid FWD,9/9/2019,Ford,Nevada,Excellent,"288,682",Gray
+Explorer 2WD,4/1/2019,Ford,Ohio,NA,"234,921",Gray
+Explorer Sport Trac 2WD,12/9/2019,Ford,Ohio,Good,"754,311",Green
+F150 Pickup 2WD,6/24/2019,Ford,Texas,Fair,"663,548",Gray
+F150 Pickup 2WD,5/20/2019,Ford,Nevada,Poor,"824,404",Blue
+F150 Pickup 2WD,6/8/2019,Ford,California,Poor,"439,558",Green
+F150 Pickup 4WD,8/5/2019,Ford,Texas,Fair,"383,343",Gray
+F150 Pickup 4WD,8/29/2019,Ford,California,Poor,"202,258",Green
+F150 Pickup FFV 2WD,9/23/2019,Ford,California,Fair,"570,735",Gray
+F150 Pickup FFV 2WD,6/10/2019,Ford,California,Very Poor,"512,964",Red
+F150 Pickup FFV 4WD,6/17/2019,Ford,Florida,Fair,"967,999",Gray
+F150 Pickup FFV 4WD,6/10/2019,Ford,Texas,Excellent,"682,004",White
+F150 SFE 2WD,8/12/2019,Ford,California,NA,"120,959",Green
+Flex AWD,7/15/2019,Ford,Florida,Very Poor,"720,801",Red
+Flex AWD,10/28/2019,Ford,Nevada,NA,"872,888",White
+Flex FWD,9/23/2019,Ford,Florida,NA,"139,011",Black
+Flex FWD,7/29/2019,Ford,Texas,Fair,"546,865",Red
+Focus,4/1/2019,Ford,Ohio,Excellent,"352,727",Gray
+Focus FWD,2/26/2019,Ford,California,NA,"25,977",Black
+Focus FWD,6/17/2019,Ford,California,Poor,"253,244",Green
+Freestar Wagon FWD,8/26/2019,Ford,Ohio,Excellent,"795,057",Blue
+Fusion AWD FFV,10/7/2019,Ford,Florida,NA,"348,941",White
+Fusion FWD,4/15/2019,Ford,California,Good,"429,892",Black
+Fusion FWD,4/15/2019,Ford,Florida,Poor,"424,976",Green
+Fusion FWD FFV,11/4/2019,Ford,Florida,Fair,"276,496",White
+Fusion Hybrid FWD,2/5/2019,Ford,California,Good,"344,104",Green
+Fusion S FWD,8/26/2019,Ford,California,Very Poor,"209,472",Green
+Ranger Pickup 2WD,8/19/2019,Ford,Florida,Good,"922,539",Red
+Ranger Pickup 2WD,4/8/2019,Ford,Ohio,Fair,"734,422",Red
+Ranger Pickup 2WD,9/30/2019,Ford,California,Excellent,"865,695",Blue
+Ranger Pickup 4WD,12/9/2019,Ford,Florida,Excellent,"960,136",Gray
+Taurus FWD,8/12/2019,Ford,Ohio,Excellent,"147,307",Black
+Taurus FWD,3/11/2019,Ford,Ohio,Good,"791,996",Green
+Taurus X AWD,12/25/2019,Ford,California,Fair,"426,537",Blue
+Taurus X AWD,7/27/2019,Ford,Florida,Excellent,"532,190",Black
+Taurus X FWD,4/8/2019,Ford,Florida,Good,"166,641",Red
+Taurus X FWD,5/13/2019,Ford,Nevada,NA,"534,376",Blue
+Transit Connect,7/15/2019,Ford,Florida,Good,"473,263",Blue
+UNLISTED,9/16/2019,Ford,California,Fair,"13,883",Blue
+UNLISTED,1/1/2019,Ford,Nevada,NA,"891,987",White
+Acadia AWD,4/22/2019,GMC,California,Excellent,"479,176",Blue
+Acadia AWD,5/27/2019,GMC,Texas,NA,"516,426",Blue
+Acadia AWD,10/6/2019,GMC,Ohio,Poor,"506,621",White
+Acadia FWD,7/22/2019,GMC,Texas,Fair,"996,422",Black
+Acadia FWD,5/5/2019,GMC,California,NA,"865,920",Gray
+Acadia FWD,6/3/2019,GMC,Florida,Fair,"405,439",Gray
+Acadia FWD,7/8/2019,GMC,Texas,Very Poor,"884,327",Green
+Canyon 2WD,2/12/2019,GMC,Florida,Excellent,"644,924",Red
+Canyon 2WD,4/20/2019,GMC,California,Fair,"749,299",Gray
+Canyon 2WD,6/24/2019,GMC,Florida,Very Poor,"349,223",Black
+Canyon 2WD,3/11/2019,GMC,Ohio,Very Poor,"79,629",Green
+Canyon 4WD,11/18/2019,GMC,California,Excellent,"718,076",White
+Canyon 4WD,9/30/2019,GMC,Florida,Good,"261,259",Gray
+Canyon 4WD,3/30/2019,GMC,Nevada,Good,"975,601",Gray
+Canyon Cab Chassis Inc 4WD,2/5/2019,GMC,Nevada,Good,"512,311",Gray
+Canyon Crew Cab 2WD,3/25/2019,GMC,Florida,Excellent,"223,301",Green
+Canyon Crew Cab 2WD,10/21/2019,GMC,Nevada,Excellent,"937,906",Black
+Canyon Crew Cab 4WD,7/22/2019,GMC,Ohio,Very Poor,"860,498",Gray
+Canyon Crew Cab 4WD,10/21/2019,GMC,Florida,Excellent,"366,724",Gray
+Savana 1500 2WD (cargo),4/15/2019,GMC,Texas,Very Poor,"918,427",Gray
+Sierra 15 Hybrid 2WD,12/2/2019,GMC,Ohio,NA,"408,299",Green
+Sierra 15 Hybrid 4WD,8/26/2019,GMC,Texas,Poor,"932,521",Gray
+Sierra C15 2WD,1/15/2019,GMC,Florida,Excellent,"929,530",White
+Sierra C15 2WD,12/2/2019,GMC,Ohio,Excellent,"200,938",Green
+Sierra C15 2WD,6/24/2019,GMC,Florida,Very Poor,"326,105",Blue
+Sierra C15 2WD,7/8/2019,GMC,Texas,NA,"416,033",Gray
+Sierra C15 XFE 2WD,7/29/2019,GMC,Florida,NA,"679,603",Green
+Sierra K15 4WD,10/28/2019,GMC,California,NA,"795,441",Gray
+Sierra K15 4WD,7/29/2019,GMC,California,Good,"171,613",Gray
+Terrain AWD,1/22/2019,GMC,Florida,Fair,"624,316",Blue
+Terrain FWD,9/16/2019,GMC,Nevada,NA,"981,904",Green
+UNLISTED,10/14/2019,GMC,Nevada,Excellent,"493,320",Blue
+Yukon 1500 Hybrid 2WD,10/21/2019,GMC,California,Very Poor,"636,455",White
+Accord,2/12/2019,Honda,Florida,Very Poor,"767,605",White
+Accord,10/21/2019,Honda,Florida,Poor,"916,565",White
+Accord Coupe,12/2/2019,Honda,Nevada,Excellent,"244,311",Red
+Accord Coupe,1/29/2019,Honda,Ohio,Very Poor,"828,377",Black
+CR-V 2WD,7/29/2019,Honda,California,Poor,"131,638",Blue
+CR-V 2WD,10/21/2019,Honda,California,Very Poor,"564,593",Gray
+CR-V 2WD,5/13/2019,Honda,Texas,Good,"753,619",Red
+CR-V 4WD,12/21/2019,Honda,Nevada,Very Poor,"373,639",Blue
+CR-V 4WD,10/28/2019,Honda,Texas,NA,"762,252",Red
+CR-V 4WD,7/21/2019,Honda,California,Excellent,"650,188",Red
+Civic,12/2/2019,Honda,Texas,Good,"330,201",Blue
+Civic,5/20/2019,Honda,California,Good,"389,901",Blue
+Civic,6/3/2019,Honda,Texas,Very Poor,"129,020",Green
+Civic CNG,3/18/2019,Honda,Ohio,Good,"848,616",Green
+Civic Hybrid,5/20/2019,Honda,California,Good,"929,415",Gray
+Element 2WD,8/26/2019,Honda,Florida,Excellent,"530,015",White
+Element 2WD,4/29/2019,Honda,Texas,Very Poor,"873,882",Gray
+Element 2WD,10/21/2019,Honda,Ohio,Excellent,"944,987",Gray
+Element 4WD,10/14/2019,Honda,Nevada,Very Poor,"828,781",Red
+Element 4WD,4/1/2019,Honda,California,Excellent,"809,833",Red
+Element 4WD,9/9/2019,Honda,Florida,Very Poor,"665,898",Green
+Fit,11/11/2019,Honda,Nevada,Poor,"445,445",Green
+Fit,4/1/2019,Honda,California,Fair,"320,887",Black
+Fit,10/21/2019,Honda,Ohio,Excellent,"50,300",Blue
+Insight,2/26/2019,Honda,Texas,Fair,"315,416",Red
+Odyssey,9/2/2019,Honda,Texas,Fair,"225,965",Green
+Odyssey,3/4/2019,Honda,Florida,Very Poor,"477,239",Gray
+Odyssey,3/18/2019,Honda,Ohio,NA,"768,796",White
+Pilot 2WD,3/18/2019,Honda,Ohio,NA,"442,259",Blue
+Pilot 2WD,8/19/2019,Honda,Florida,NA,"244,023",Red
+Pilot 2WD,1/29/2019,Honda,Nevada,NA,"389,326",Red
+Pilot 4WD,12/9/2019,Honda,California,Fair,"344,853",White
+Pilot 4WD,1/8/2019,Honda,Texas,Excellent,"500,261",Blue
+Ridgeline Truck 4WD,9/9/2019,Honda,California,Good,"748,871",Green
+UNLISTED,6/10/2019,Honda,Ohio,NA,"767,179",Gray
+UNLISTED,3/4/2019,Honda,Ohio,Good,"909,502",White
+H3T 4WD,1/27/2019,Hummer,Florida,Good,"597,174",Black
+Accent,7/29/2019,Hyundai,Florida,Very Poor,"948,225",White
+Accent,6/24/2019,Hyundai,Texas,Poor,"509,896",Black
+Elantra,7/1/2019,Hyundai,Florida,Very Poor,"546,937",White
+Elantra,7/22/2019,Hyundai,Ohio,Very Poor,"569,908",White
+Elantra,2/26/2019,Hyundai,Texas,Good,"193,883",Red
+Elantra Touring,11/25/2019,Hyundai,Florida,Excellent,"160,440",Red
+Elantra Touring,8/5/2019,Hyundai,Nevada,Excellent,"466,509",White
+Entourage,12/25/2019,Hyundai,Nevada,Very Poor,"302,800",Blue
+Genesis Coupe,8/19/2019,Hyundai,Nevada,NA,"974,751",White
+Santa Fe 2WD,3/11/2019,Hyundai,California,Very Poor,"495,547",Blue
+Santa Fe 2WD,3/4/2019,Hyundai,Ohio,Good,"595,347",White
+Santa Fe 2WD,4/15/2019,Hyundai,Ohio,Excellent,"415,800",Black
+Santa Fe 4WD,4/8/2019,Hyundai,California,Excellent,"374,617",White
+Santa Fe 4WD,5/13/2019,Hyundai,Texas,Very Poor,"953,478",Green
+Santa Fe 4WD,8/12/2019,Hyundai,Texas,Very Poor,"964,263",White
+Sonata,11/4/2019,Hyundai,Ohio,Good,"386,770",Green
+Sonata,7/15/2019,Hyundai,Ohio,Fair,"964,452",Green
+Sonata,10/21/2019,Hyundai,Texas,NA,"746,442",Blue
+Tucson 2WD,9/30/2019,Hyundai,Ohio,NA,"329,184",Red
+Tucson 2WD,5/20/2019,Hyundai,Ohio,Good,"328,520",Black
+Tucson 2WD,3/18/2019,Hyundai,Texas,Very Poor,"656,646",Black
+Tucson 4WD,9/23/2019,Hyundai,California,Good,"288,779",Blue
+Tucson 4WD,5/20/2019,Hyundai,California,Fair,"631,722",Blue
+Tucson 4WD,11/18/2019,Hyundai,Nevada,Good,"637,393",White
+Veracruz 2WD,11/18/2019,Hyundai,Ohio,Poor,"863,423",Blue
+Veracruz 2WD,3/11/2019,Hyundai,Florida,Good,"638,022",Red
+Veracruz 2WD,4/1/2019,Hyundai,Texas,Good,"386,781",White
+Veracruz 4WD,9/30/2019,Hyundai,Florida,Poor,"437,174",Gray
+Veracruz 4WD,1/29/2019,Hyundai,California,Fair,"782,739",Red
+Veracruz 4WD,9/2/2019,Hyundai,Florida,Excellent,"266,189",Red
+Veracruz 4WD,10/14/2019,Hyundai,Florida,Fair,"41,376",Green
+FX35 AWD,6/3/2019,Infiniti,Texas,Poor,"347,445",Black
+FX35 RWD,8/26/2019,Infiniti,California,Excellent,"324,863",Red
+i-370 Crew Cab 2WD,4/1/2019,Isuzu,Ohio,Fair,"155,447",Blue
+i-370 Extended Cab 2WD,3/4/2019,Isuzu,Florida,NA,"11,056",Black
+Commander 4WD,4/8/2019,Jeep,Ohio,Fair,"302,306",Blue
+Compass 2WD,4/22/2019,Jeep,Nevada,Good,"687,937",Red
+Compass 2WD,7/8/2019,Jeep,Nevada,Good,"123,789",Green
+Compass 2WD,10/16/2019,Jeep,Ohio,NA,"726,747",Blue
+Compass 2WD,8/26/2019,Jeep,Florida,Excellent,"939,668",Green
+Compass 4WD,10/19/2019,Jeep,Nevada,Good,"958,585",Green
+Compass 4WD,7/1/2019,Jeep,Ohio,Good,"20,048",Green
+Compass 4WD,10/7/2019,Jeep,Nevada,Excellent,"549,161",Red
+Grand Cherokee 2WD,3/18/2019,Jeep,Texas,Poor,"87,683",Green
+Grand Cherokee 2WD,11/25/2019,Jeep,California,Poor,"376,251",Gray
+Grand Cherokee 2WD,7/8/2019,Jeep,Florida,Good,"286,550",Blue
+Grand Cherokee 4WD,4/1/2019,Jeep,Ohio,Very Poor,"440,386",Black
+Liberty 2WD,5/24/2019,Jeep,Nevada,NA,"280,851",Blue
+Liberty 2WD,3/16/2019,Jeep,Texas,Poor,"193,911",Blue
+Liberty 2WD,8/5/2019,Jeep,California,Fair,"851,530",Blue
+Liberty 4WD,10/14/2019,Jeep,Ohio,Fair,"455,028",Blue
+Liberty 4WD,9/30/2019,Jeep,Texas,Very Poor,"717,037",Blue
+Patriot 2WD,7/29/2019,Jeep,Ohio,NA,"282,375",Red
+Patriot 2WD,11/25/2019,Jeep,Nevada,NA,"330,566",Blue
+Patriot 2WD,9/16/2019,Jeep,Texas,Excellent,"736,649",Gray
+Patriot 2WD,11/23/2019,Jeep,California,Poor,"886,152",Gray
+Patriot 4WD,8/12/2019,Jeep,Texas,Poor,"747,173",Green
+Patriot 4WD,5/13/2019,Jeep,Florida,Very Poor,"802,223",Blue
+Patriot 4WD,2/5/2019,Jeep,Texas,Very Poor,"205,270",Blue
+UNLISTED,1/22/2019,Jeep,Ohio,Very Poor,"164,631",Gray
+Borrego 2WD,10/21/2019,Kia,California,Fair,"464,993",Red
+Borrego 2WD,9/2/2019,Kia,Texas,NA,"414,982",Green
+Borrego 4WD,8/19/2019,Kia,Nevada,Poor,"682,436",White
+Borrego 4WD,4/29/2019,Kia,Texas,Excellent,"494,088",Gray
+Forte,2/12/2019,Kia,Florida,Good,"746,007",Blue
+Optima,9/16/2019,Kia,Florida,NA,"335,685",Gray
+Optima,10/28/2019,Kia,Ohio,NA,"334,011",Gray
+Optima,4/8/2019,Kia,Florida,Good,"485,383",Red
+Rio,8/5/2019,Kia,Ohio,Excellent,"231,838",Red
+Rio,12/9/2019,Kia,Florida,Excellent,"301,754",Gray
+Rio,8/12/2019,Kia,Ohio,Good,"326,250",Blue
+Rondo,3/25/2019,Kia,Nevada,Very Poor,"185,810",Green
+Rondo,3/18/2019,Kia,Florida,Very Poor,"759,876",White
+Rondo,8/12/2019,Kia,Texas,Excellent,"449,317",Blue
+Rondo,6/17/2019,Kia,Texas,Poor,"19,795",White
+Sedona,9/2/2019,Kia,California,Fair,"442,431",White
+Sedona,11/11/2019,Kia,Florida,Excellent,"659,828",White
+Sedona,2/19/2019,Kia,Nevada,Excellent,"693,527",Green
+Sedona,5/20/2019,Kia,Nevada,Good,"598,137",Black
+Sorento 2WD,8/5/2019,Kia,Texas,Excellent,"785,227",Green
+Sorento 2WD,4/8/2019,Kia,Texas,Poor,"755,343",Red
+Sorento 2WD,12/16/2019,Kia,Florida,NA,"188,777",Black
+Sorento 4WD,7/27/2019,Kia,California,Poor,"918,672",Red
+Soul,8/19/2019,Kia,Ohio,Fair,"912,493",Red
+Spectra,7/15/2019,Kia,California,Poor,"656,977",White
+Spectra,9/23/2019,Kia,Texas,Excellent,"820,396",Black
+Sportage 2WD,4/15/2019,Kia,California,NA,"26,601",White
+Sportage 2WD,7/22/2019,Kia,Ohio,Excellent,"418,579",Black
+Sportage 2WD,10/7/2019,Kia,Ohio,Excellent,"58,886",Blue
+Sportage 2WD,4/1/2019,Kia,Texas,Fair,"93,759",Gray
+Sportage 4WD,8/5/2019,Kia,Ohio,Very Poor,"914,016",Gray
+Sportage 4WD,4/1/2019,Kia,Ohio,Good,"225,545",Blue
+Sportage 4WD,9/2/2019,Kia,Ohio,Poor,"311,809",White
+ES 350,7/1/2019,Lexus,California,NA,"691,815",Red
+ES 350,11/11/2019,Lexus,Nevada,Good,"306,516",White
+HS 250h,11/18/2019,Lexus,Texas,Poor,"652,213",Green
+IS 250,1/15/2019,Lexus,Florida,Fair,"882,463",Blue
+IS 250 AWD,7/8/2019,Lexus,California,Excellent,"360,549",White
+IS 250/IS 250C,6/10/2019,Lexus,California,Fair,"948,541",Red
+RX 350 2WD,6/22/2019,Lexus,Nevada,Fair,"999,640",Blue
+RX 350 2WD,10/26/2019,Lexus,Texas,Poor,"418,275",White
+RX 350 AWD,12/28/2019,Lexus,Nevada,NA,"230,240",Red
+RX 400h 2WD,2/12/2019,Lexus,Ohio,NA,"360,769",Blue
+RX 400h 4WD,11/4/2019,Lexus,Ohio,Excellent,"289,009",White
+RX 450h,12/9/2019,Lexus,Texas,Excellent,"46,349",Gray
+RX 450h AWD,11/18/2019,Lexus,Florida,Very Poor,"247,516",Black
+MKS FWD,11/30/2019,Lincoln,Nevada,Poor,"880,957",Red
+MKX AWD,7/27/2019,Lincoln,Texas,Very Poor,"780,449",Gray
+MKX AWD,1/1/2019,Lincoln,Texas,Very Poor,"691,889",Blue
+MKX AWD,8/5/2019,Lincoln,Florida,Poor,"758,423",White
+MKX FWD,9/30/2019,Lincoln,Texas,Poor,"177,048",Red
+MKX FWD,9/9/2019,Lincoln,Florida,Poor,"310,148",Red
+MKX FWD,10/21/2019,Lincoln,Nevada,NA,"735,979",Gray
+MKX FWD,7/1/2019,Lincoln,Nevada,Poor,"256,125",Blue
+MKZ AWD,4/15/2019,Lincoln,Nevada,Fair,"829,205",Black
+Clubman,7/8/2019,MINI,Texas,Good,"630,893",Gray
+Clubman S,4/29/2019,MINI,Ohio,Very Poor,"857,956",Blue
+Cooper,12/21/2019,MINI,Ohio,NA,"491,100",Blue
+Cooper Convertible,12/28/2019,MINI,California,Fair,"932,700",Blue
+Cooper S,5/13/2019,MINI,California,Excellent,"833,364",Green
+Cooper S Convertible,12/21/2019,MINI,Nevada,Poor,"100,948",Blue
+John Cooper Works Clubman,5/13/2019,MINI,Texas,NA,"385,094",Black
+3,8/12/2019,Mazda,Nevada,Fair,"965,764",Blue
+3,11/4/2019,Mazda,California,Fair,"359,189",White
+3,7/15/2019,Mazda,Texas,Poor,"312,295",Blue
+5,5/13/2019,Mazda,Nevada,Poor,"120,563",Red
+5,6/3/2019,Mazda,Florida,Fair,"395,364",Black
+6,10/26/2019,Mazda,California,Excellent,"871,341",White
+6,10/6/2019,Mazda,Nevada,Excellent,"975,511",White
+6,5/27/2019,Mazda,Ohio,Fair,"381,209",White
+B2300 2WD,10/14/2019,Mazda,Florida,Poor,"185,564",Black
+B2300 2WD,2/5/2019,Mazda,California,NA,"608,498",Black
+CX-7 2WD,5/20/2019,Mazda,Florida,Very Poor,"991,614",Black
+CX-7 2WD,2/12/2019,Mazda,Florida,Fair,"168,357",Black
+CX-7 2WD,6/10/2019,Mazda,Texas,Fair,"137,168",Red
+CX-7 4WD,5/6/2019,Mazda,Nevada,Excellent,"621,683",Black
+CX-7 4WD,1/29/2019,Mazda,Nevada,Poor,"117,524",Red
+CX-7 4WD,2/19/2019,Mazda,Texas,Very Poor,"549,295",Green
+CX-7 4WD,6/17/2019,Mazda,Nevada,Poor,"846,586",Red
+CX-9 2WD,2/3/2019,Mazda,Ohio,Good,"597,500",Black
+CX-9 2WD,6/15/2019,Mazda,Texas,Excellent,"210,189",White
+CX-9 2WD,4/29/2019,Mazda,Ohio,Fair,"676,292",Red
+CX-9 4WD,2/5/2019,Mazda,Florida,Good,"921,603",Red
+MX-5,8/26/2019,Mazda,Nevada,Fair,"60,194",Blue
+MX-5,1/15/2019,Mazda,Nevada,NA,"261,860",Black
+MX-5,9/4/2019,Mazda,Nevada,Fair,"483,090",White
+Tribute 4WD,1/29/2019,Mazda,Texas,Poor,"810,103",Green
+Tribute 4WD,6/6/2019,Mazda,Texas,Excellent,"817,271",Black
+Tribute 4WD,4/15/2019,Mazda,California,NA,"410,403",Blue
+Tribute FWD,1/15/2019,Mazda,Ohio,Excellent,"527,742",Green
+Tribute FWD,6/24/2019,Mazda,Texas,Very Poor,"866,080",White
+Tribute FWD,4/15/2019,Mazda,Texas,Fair,"907,098",Gray
+Tribute FWD FFV,2/19/2019,Mazda,Nevada,Good,"882,474",Gray
+Tribute Hybrid 2WD,3/11/2019,Mazda,California,Good,"93,426",White
+Tribute Hybrid 2WD,11/11/2019,Mazda,Florida,Very Poor,"348,718",Red
+Tribute Hybrid 4WD,12/16/2019,Mazda,Ohio,Very Poor,"256,604",Green
+Tribute Hybrid 4WD,7/1/2019,Mazda,California,Fair,"311,374",Black
+GLK 350 4MATIC,11/23/2019,Mercedes-Be,Nevada,Poor,"67,897",Blue
+GLK350,8/12/2019,Mercedes-Be,Texas,Good,"862,306",Blue
+GLK350 4matic,1/29/2019,Mercedes-Be,Ohio,Good,"546,111",Blue
+Mariner 4WD,2/5/2019,Mercury,Ohio,Excellent,"626,932",Gray
+Mariner 4WD,9/28/2019,Mercury,Ohio,Fair,"54,257",Red
+Mariner 4WD,7/1/2019,Mercury,Texas,Good,"155,499",Blue
+Mariner 4WD,4/1/2019,Mercury,Ohio,Poor,"876,620",White
+Mariner 4WD FFV,8/12/2019,Mercury,Ohio,Poor,"30,534",Gray
+Mariner FWD,8/26/2019,Mercury,Texas,NA,"857,566",White
+Mariner FWD,10/14/2019,Mercury,Ohio,Excellent,"502,037",Black
+Mariner FWD,5/13/2019,Mercury,Nevada,Very Poor,"398,276",Black
+Mariner FWD FFV,11/11/2019,Mercury,Nevada,Excellent,"595,983",Black
+Mariner Hybrid 4WD,8/22/2019,Mercury,Ohio,Excellent,"971,880",Green
+Mariner Hybrid 4WD,7/15/2019,Mercury,Texas,Very Poor,"161,225",Blue
+Mariner Hybrid 4WD,6/17/2019,Mercury,Florida,Very Poor,"690,793",White
+Mariner Hybrid FWD,6/17/2019,Mercury,Ohio,Very Poor,"410,328",Gray
+Mariner Hybrid FWD,10/11/2019,Mercury,Nevada,Fair,"871,610",Black
+Mariner Hybrid FWD,11/11/2019,Mercury,Ohio,Fair,"730,391",Gray
+Milan,12/23/2019,Mercury,Nevada,Poor,"957,568",Gray
+Milan,9/16/2019,Mercury,Nevada,Poor,"530,396",Gray
+Milan AWD,12/21/2019,Mercury,Ohio,Very Poor,"649,633",Black
+Milan FFV,4/15/2019,Mercury,Nevada,Very Poor,"247,398",Blue
+Milan Hybrid FWD,9/2/2019,Mercury,Nevada,Very Poor,"622,635",Red
+Milan S,12/2/2019,Mercury,Ohio,Good,"726,764",Gray
+UNLISTED,12/9/2019,Mercury,California,Very Poor,"619,528",Green
+Eclipse,9/16/2019,Mitsubishi,California,Excellent,"545,476",Black
+Eclipse,4/1/2019,Mitsubishi,Florida,Good,"992,907",White
+Eclipse,3/2/2019,Mitsubishi,Ohio,Fair,"631,342",White
+Endeavor 2WD,2/5/2019,Mitsubishi,Florida,NA,"794,494",White
+Endeavor 2WD,8/26/2019,Mitsubishi,Ohio,Excellent,"764,426",White
+Endeavor 2WD,8/19/2019,Mitsubishi,Ohio,NA,"283,428",White
+Galant,10/24/2019,Mitsubishi,Ohio,Fair,"348,843",Blue
+Lancer,10/7/2019,Mitsubishi,Nevada,Very Poor,"786,771",White
+Lancer,3/25/2019,Mitsubishi,Florida,Good,"158,062",Green
+Lancer,3/11/2019,Mitsubishi,Ohio,Excellent,"458,896",Gray
+Lancer Sportback,7/22/2019,Mitsubishi,Nevada,Fair,"294,799",Green
+Outlander 2WD,5/13/2019,Mitsubishi,Florida,Very Poor,"873,734",White
+Outlander 2WD,9/23/2019,Mitsubishi,Florida,Excellent,"717,192",Gray
+Outlander 2WD,4/20/2019,Mitsubishi,Texas,NA,"984,180",Blue
+Outlander 4WD,8/12/2019,Mitsubishi,California,Very Poor,"646,173",Green
+Outlander 4WD,8/5/2019,Mitsubishi,Florida,Poor,"876,670",Blue
+Outlander 4WD,9/9/2019,Mitsubishi,Nevada,Very Poor,"85,137",Gray
+Outlander 4WD,7/6/2019,Mitsubishi,California,Fair,"752,896",Blue
+Raider Pickup 2WD,7/22/2019,Mitsubishi,Ohio,Poor,"221,468",Gray
+Raider Pickup 2WD,5/13/2019,Mitsubishi,California,Very Poor,"26,519",Red
+Altima,3/18/2019,Nissan,Ohio,Excellent,"350,051",Black
+Altima,8/17/2019,Nissan,Florida,Excellent,"493,185",Black
+Altima Coupe,6/24/2019,Nissan,Texas,Poor,"649,957",Blue
+Altima Coupe,12/9/2019,Nissan,Florida,Excellent,"491,418",Blue
+Altima Hybrid,4/22/2019,Nissan,Nevada,Excellent,"852,830",Gray
+Altima Hybrid,1/22/2019,Nissan,Ohio,Very Poor,"646,484",Black
+Cube,3/18/2019,Nissan,Ohio,NA,"495,786",Blue
+Frontier 2WD,4/22/2019,Nissan,California,Poor,"909,807",White
+Frontier 2WD,3/11/2019,Nissan,Florida,Good,"918,785",Gray
+Frontier 2WD,10/21/2019,Nissan,Ohio,Poor,"723,450",Blue
+Frontier 4WD,9/16/2019,Nissan,Nevada,NA,"256,081",Gray
+Frontier 4WD,6/10/2019,Nissan,California,Fair,"974,489",Gray
+Frontier V6 2WD,6/3/2019,Nissan,Nevada,Fair,"13,702",Gray
+Maxima,4/29/2019,Nissan,Ohio,Very Poor,"340,074",Black
+Murano AWD,10/7/2019,Nissan,Nevada,Fair,"765,555",Blue
+Murano FWD,9/28/2019,Nissan,Nevada,NA,"146,385",Green
+Murano FWD,1/22/2019,Nissan,Nevada,Good,"549,319",Blue
+Pathfinder FE 2WD,10/14/2019,Nissan,California,Fair,"855,611",Green
+Pathfinder FE 2WD,4/15/2019,Nissan,Nevada,Very Poor,"260,524",Blue
+Quest,9/23/2019,Nissan,Ohio,NA,"687,529",Black
+Quest,5/20/2019,Nissan,California,Good,"571,520",Blue
+Quest,3/11/2019,Nissan,Ohio,Good,"827,355",Blue
+Rogue AWD,12/16/2019,Nissan,California,Very Poor,"603,502",Red
+Rogue AWD,9/16/2019,Nissan,California,NA,"793,185",Red
+Rogue FWD,9/23/2019,Nissan,Florida,Poor,"471,134",Gray
+Rogue FWD,7/1/2019,Nissan,Texas,Good,"443,303",Green
+Sentra,10/7/2019,Nissan,Nevada,Excellent,"432,024",Black
+Sentra,8/12/2019,Nissan,Nevada,Poor,"349,282",White
+Sentra,4/8/2019,Nissan,Nevada,Fair,"276,020",Gray
+Sentra FE,12/9/2019,Nissan,Ohio,Fair,"896,582",Black
+Titan FE 2WD FFV,1/22/2019,Nissan,Nevada,Poor,"398,768",Red
+Versa,3/4/2019,Nissan,Texas,NA,"660,951",White
+Versa,3/18/2019,Nissan,Texas,Good,"801,978",Green
+Versa,12/9/2019,Nissan,Ohio,Fair,"607,119",Gray
+Versa FE,3/18/2019,Nissan,Texas,Good,"952,722",Blue
+Xterra 2WD,3/11/2019,Nissan,California,Very Poor,"871,051",Blue
+G3,9/9/2019,Pontiac,Nevada,Very Poor,"858,779",White
+G3 (3-Door),4/8/2019,Pontiac,Texas,Good,"75,689",Blue
+G3 (5-Door),11/4/2019,Pontiac,Nevada,Poor,"148,891",Gray
+G3 Wave,2/5/2019,Pontiac,Ohio,Excellent,"826,859",Gray
+G3 Wave 5,2/5/2019,Pontiac,Ohio,Good,"435,435",White
+G5,4/29/2019,Pontiac,Nevada,Poor,"192,812",Green
+G5 GT,6/10/2019,Pontiac,Nevada,Very Poor,"504,866",Green
+G5 GT,4/1/2019,Pontiac,California,Fair,"490,540",White
+G5 XFE,5/13/2019,Pontiac,Nevada,Good,"794,997",Gray
+G5 XFE,7/1/2019,Pontiac,Florida,Very Poor,"646,705",Green
+G5/Pursuit,9/9/2019,Pontiac,Florida,Good,"441,973",Red
+G6,3/18/2019,Pontiac,Ohio,NA,"241,674",Black
+G6,3/11/2019,Pontiac,Ohio,Fair,"445,711",Red
+Torrent AWD,9/23/2019,Pontiac,Ohio,Poor,"869,372",Red
+Torrent AWD,4/7/2019,Pontiac,Florida,Very Poor,"276,087",Blue
+Torrent FWD,11/2/2019,Pontiac,California,Good,"446,860",Blue
+Torrent FWD,11/18/2019,Pontiac,California,Fair,"734,035",Gray
+Torrent FWD,12/2/2019,Pontiac,Nevada,Good,"711,728",White
+Vibe,4/29/2019,Pontiac,California,Very Poor,"955,075",Blue
+Vibe,11/11/2019,Pontiac,Florida,Very Poor,"554,351",White
+Vibe,1/29/2019,Pontiac,Florida,Excellent,"445,826",Green
+Vibe,4/15/2019,Pontiac,California,NA,"348,578",Blue
+Astra 2DR Hatchback,6/3/2019,Saturn,Texas,Fair,"242,943",Black
+Astra 2DR Hatchback,1/8/2019,Saturn,Ohio,Poor,"218,966",Blue
+Astra 4DR Hatchback,12/2/2019,Saturn,Nevada,Fair,"555,422",Blue
+Aura,10/7/2019,Saturn,Ohio,Good,"655,366",Blue
+Aura Hybrid,10/7/2019,Saturn,Florida,Fair,"522,948",Blue
+Outlook AWD,10/21/2019,Saturn,Florida,Very Poor,"788,577",Blue
+Outlook AWD,10/14/2019,Saturn,Florida,NA,"625,197",Green
+Outlook AWD,8/26/2019,Saturn,Ohio,NA,"701,830",Green
+Outlook FWD,10/7/2019,Saturn,Nevada,Good,"119,363",Blue
+Outlook FWD,6/17/2019,Saturn,Florida,Excellent,"290,779",Black
+Outlook FWD,4/22/2019,Saturn,Texas,Poor,"900,171",Green
+SKY,7/13/2019,Saturn,Ohio,Very Poor,"924,427",White
+SKY,7/1/2019,Saturn,Texas,Poor,"65,868",Blue
+Vue AWD,8/26/2019,Saturn,Florida,Poor,"939,286",Blue
+Vue AWD,4/8/2019,Saturn,Texas,NA,"929,291",Black
+Vue AWD,4/15/2019,Saturn,Nevada,Very Poor,"627,665",Red
+Vue FWD,6/24/2019,Saturn,Nevada,Excellent,"917,750",White
+Vue FWD,1/15/2019,Saturn,Florida,Good,"228,899",Gray
+Vue FWD,7/29/2019,Saturn,Nevada,Very Poor,"224,494",Blue
+Vue Hybrid,9/16/2019,Saturn,California,Good,"337,934",Gray
+Vue Hybrid,6/17/2019,Saturn,Florida,NA,"782,579",Green
+Vue Hybrid,2/26/2019,Saturn,California,Fair,"643,385",White
+UNLISTED,9/9/2019,Scion,Texas,Fair,"32,274",White
+tC,7/1/2019,Scion,Florida,Fair,"597,228",Gray
+tC,9/2/2019,Scion,Nevada,Poor,"195,331",White
+xB,2/12/2019,Scion,Florida,Very Poor,"973,936",Gray
+xB,5/13/2019,Scion,Nevada,Excellent,"900,606",Blue
+xB,8/12/2019,Scion,California,Fair,"196,025",White
+xD,11/11/2019,Scion,Florida,NA,"801,041",Blue
+xD,9/23/2019,Scion,Ohio,NA,"809,915",Black
+xD,9/23/2019,Scion,Ohio,Excellent,"254,103",Black
+Forester AWD,4/29/2019,Subaru,Ohio,Very Poor,"779,502",Gray
+Forester AWD,9/9/2019,Subaru,Florida,Very Poor,"555,747",Red
+Forester AWD,1/8/2019,Subaru,Nevada,Excellent,"164,024",Blue
+Forester AWD,4/15/2019,Subaru,California,Poor,"529,580",Black
+Impreza AWD,4/22/2019,Subaru,Nevada,Poor,"939,451",Green
+Impreza AWD,2/19/2019,Subaru,Texas,NA,"473,742",White
+Impreza AWD,4/2/2019,Subaru,Florida,NA,"312,646",Green
+Impreza Wagon/Outback SPT AWD,3/5/2019,Subaru,Texas,Poor,"815,455",Black
+Impreza Wagon/Outback SPT AWD,11/11/2019,Subaru,California,Poor,"47,987",Black
+Impreza Wagon/Outback Sport,6/10/2019,Subaru,Nevada,Fair,"249,761",Blue
+Legacy AWD,6/24/2019,Subaru,Nevada,Good,"905,190",Gray
+Legacy AWD,2/12/2019,Subaru,Nevada,Fair,"626,166",White
+Legacy AWD,5/20/2019,Subaru,Florida,Excellent,"231,082",Green
+Outback AWD,9/14/2019,Subaru,Texas,Good,"746,257",Blue
+Outback Wagon AWD,5/27/2019,Subaru,Florida,Excellent,"935,833",Red
+Outback Wagon AWD,12/2/2019,Subaru,Florida,Excellent,"802,882",Gray
+Outback Wagon AWD,5/20/2019,Subaru,California,Good,"148,968",White
+Outback Wagon AWD,3/4/2019,Subaru,California,Excellent,"497,781",Red
+Tribeca AWD,8/19/2019,Subaru,California,Good,"45,608",White
+Tribeca AWD,3/11/2019,Subaru,Florida,NA,"338,534",Gray
+Tribeca AWD,9/30/2019,Subaru,Florida,Very Poor,"323,644",Green
+Equator 2WD,3/18/2019,Suzuki,Texas,Poor,"161,324",White
+Equator 2WD,5/6/2019,Suzuki,Florida,Good,"225,400",White
+Equator 4WD,7/1/2019,Suzuki,Texas,Poor,"402,842",Black
+Forenza,9/23/2019,Suzuki,Texas,Good,"846,291",Black
+Forenza Wagon,5/27/2019,Suzuki,Nevada,Excellent,"199,843",Blue
+Grand Vitara,9/23/2019,Suzuki,Florida,Poor,"567,808",Green
+Grand Vitara,8/31/2019,Suzuki,Nevada,Fair,"640,479",Green
+Grand Vitara 4WD,7/8/2019,Suzuki,Nevada,Good,"165,044",Red
+Grand Vitara 4WD,7/22/2019,Suzuki,Ohio,Excellent,"618,288",Gray
+Grand Vitara AWD,6/24/2019,Suzuki,Nevada,Poor,"760,371",Red
+SX4,8/19/2019,Suzuki,Texas,Fair,"461,953",Red
+SX4 AWD,11/18/2019,Suzuki,Nevada,Excellent,"936,191",Green
+SX4 AWD,7/29/2019,Suzuki,Texas,Fair,"708,188",Gray
+SX4 Sedan,1/8/2019,Suzuki,Florida,Fair,"196,831",Red
+SX4 Sedan,10/21/2019,Suzuki,Nevada,Good,"665,635",White
+SX4 Sport,5/23/2019,Suzuki,Ohio,Good,"763,625",Gray
+XL7 AWD,5/20/2019,Suzuki,Florida,Excellent,"131,316",White
+XL7 AWD,4/29/2019,Suzuki,Nevada,Fair,"234,745",White
+XL7 AWD,12/16/2019,Suzuki,Ohio,Good,"298,946",Green
+XL7 FWD,11/10/2019,Suzuki,Ohio,Fair,"952,110",Green
+XL7 FWD,3/4/2019,Suzuki,California,Very Poor,"675,876",Gray
+4Runner 2WD,9/9/2019,Toyota,Texas,Good,"993,077",Red
+4Runner 2WD,2/19/2019,Toyota,Florida,Excellent,"822,090",Gray
+4Runner 4WD,6/3/2019,Toyota,Texas,Very Poor,"31,459",Blue
+Avalon,3/11/2019,Toyota,California,Very Poor,"244,777",White
+Camry,9/30/2019,Toyota,Florida,Good,"644,280",Green
+Camry,6/10/2019,Toyota,Ohio,Very Poor,"945,341",Black
+Camry Hybrid,12/2/2019,Toyota,Texas,Excellent,"809,456",Blue
+Camry Hybrid,8/12/2019,Toyota,Ohio,Very Poor,"116,327",Green
+Corolla,6/24/2019,Toyota,Florida,Excellent,"151,682",Black
+Corolla,6/17/2019,Toyota,California,Fair,"278,647",Gray
+FJ Cruiser 2WD,6/10/2019,Toyota,California,Excellent,"61,148",Green
+FJ Cruiser 2WD,4/15/2019,Toyota,Texas,Very Poor,"766,906",White
+Highlander 2WD,6/3/2019,Toyota,Texas,Very Poor,"592,014",Red
+Highlander 2WD,12/25/2019,Toyota,Texas,Very Poor,"794,444",Blue
+Highlander 2WD,3/18/2019,Toyota,California,Poor,"664,797",Blue
+Highlander 4WD,2/12/2019,Toyota,Nevada,Poor,"512,862",Black
+Highlander 4WD,10/12/2019,Toyota,California,Poor,"838,573",Green
+Highlander 4WD,7/22/2019,Toyota,Texas,Very Poor,"462,313",White
+Highlander Hybrid 2WD,3/4/2019,Toyota,Florida,Fair,"888,765",Green
+Highlander Hybrid 4WD,2/26/2019,Toyota,California,Fair,"864,776",Green
+Highlander Hybrid 4WD,11/4/2019,Toyota,Florida,Good,"634,838",Green
+Highlander Hybrid 4WD,1/8/2019,Toyota,Ohio,Fair,"151,104",Black
+Matrix,2/12/2019,Toyota,Texas,Excellent,"809,898",Black
+Matrix,8/26/2019,Toyota,Nevada,Poor,"902,873",Gray
+Prius,10/21/2019,Toyota,Ohio,Poor,"942,854",Black
+Prius,10/21/2019,Toyota,Ohio,Excellent,"380,415",Red
+RAV4 2WD,10/7/2019,Toyota,California,Fair,"742,720",Red
+RAV4 2WD,7/6/2019,Toyota,California,Very Poor,"123,335",Red
+RAV4 2WD,7/15/2019,Toyota,Texas,Excellent,"561,060",Red
+RAV4 2WD,10/14/2019,Toyota,Texas,Excellent,"204,003",Blue
+RAV4 4WD,5/25/2019,Toyota,Florida,NA,"935,472",Black
+RAV4 4WD,4/22/2019,Toyota,Florida,Excellent,"567,368",Red
+RAV4 4WD,2/12/2019,Toyota,Ohio,Very Poor,"286,796",Red
+RAV4 4WD,3/25/2019,Toyota,Texas,Excellent,"893,850",Red
+Sienna 2WD,4/1/2019,Toyota,California,Excellent,"847,701",Black
+Sienna 2WD,9/15/2019,Toyota,Florida,Fair,"608,599",Green
+Sienna 2WD,6/24/2019,Toyota,Nevada,NA,"522,788",Blue
+Sienna 4WD,4/29/2019,Toyota,Florida,Good,"271,240",Blue
+Sienna 4WD,4/6/2019,Toyota,Ohio,Poor,"871,733",Blue
+Tacoma 2WD,4/29/2019,Toyota,Texas,Excellent,"317,629",Black
+Tacoma 2WD,10/7/2019,Toyota,Texas,NA,"90,618",Gray
+Tacoma 2WD,8/19/2019,Toyota,California,Excellent,"181,200",Gray
+Tacoma 2WD,8/19/2019,Toyota,Texas,Very Poor,"946,619",Gray
+Tacoma 4WD,6/10/2019,Toyota,Texas,Excellent,"793,171",White
+Tacoma 4WD,1/8/2019,Toyota,Nevada,Excellent,"240,884",Green
+Tacoma 4WD,2/15/2019,Toyota,Ohio,Excellent,"77,234",Black
+Tacoma 4WD,10/21/2019,Toyota,Ohio,Good,"360,905",Green
+Tundra 2WD,4/15/2019,Toyota,Ohio,Fair,"996,989",Blue
+Tundra 2WD,5/20/2019,Toyota,Ohio,NA,"57,629",Red
+Tundra 2WD,11/4/2019,Toyota,Texas,Poor,"836,156",Blue
+Tundra 4WD,9/9/2019,Toyota,Ohio,Very Poor,"406,567",White
+Tundra 4WD FFV,8/17/2019,Toyota,Texas,Fair,"853,636",Red
+UNLISTED,3/4/2019,Toyota,Texas,Fair,"737,861",White
+UNLISTED,9/2/2019,Toyota,Nevada,Poor,"326,658",Black
+Venza,3/4/2019,Toyota,Florida,Fair,"732,527",Black
+Venza AWD,12/23/2019,Toyota,California,Good,"11,458",Black
+Yaris,6/24/2019,Toyota,Nevada,Good,"451,426",Black
+Yaris,9/16/2019,Toyota,Florida,Fair,"587,711",Red
+Yaris,10/20/2019,Toyota,Nevada,Poor,"863,323",Black
+Yaris,5/27/2019,Toyota,California,Poor,"683,963",Red
+CC,3/11/2019,Volkswagen,Nevada,Excellent,"126,104",Green
+CC,1/1/2019,Volkswagen,Nevada,NA,"911,373",White
+Eos,7/8/2019,Volkswagen,Texas,Good,"380,796",Black
+GTI,2/12/2019,Volkswagen,Texas,Very Poor,"908,293",Green
+GTI,3/4/2019,Volkswagen,Florida,NA,"67,725",Blue
