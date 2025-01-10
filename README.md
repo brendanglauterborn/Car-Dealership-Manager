@@ -20,10 +20,10 @@
 
    <h2>Features</h2>
    <ul>
-   <li><strong>State Sales Visualization:</strong> Displays total car sales for each state using bar charts.</li>
-        <li><strong>Monthly Sales Analysis:</strong> Plots sales trends across months to identify patterns.</li>
-        <li><strong>Car Brand Distribution:</strong> Generates a pie chart representing sales percentages by car brands.</li>
-        <li><strong>State-wise Monthly Sales Trends:</strong> Compares monthly sales data across multiple states using line graphs.</li>
+   <li><strong>State Sales Visualization:</strong> Displays total car sales per month for each state.</li>
+        <li><strong>State Sales Analysis:</strong> Plots sales in each state to compare performance.</li>
+        <li><strong>Texas Sales:</strong> Plots Texas sales per month.</li>
+        <li><strong>Percentage of Sales by Different Car Brands:</strong> Illustrates the percentage of sales contributed by various car brands.</li>
         <li><strong>Summary Statistics:</strong> Outputs details such as total sales, number of deals, car models, brands, safety ratings, and colors.</li>
     </ul>
 
